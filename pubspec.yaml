@@ -37,15 +37,13 @@ dependencies:
   json_serializable: ^4.1.1
   json_annotation: ^4.0.1
   dio: ^4.0.0
-  flutter_swiper: 1.1.6
   sizer: ^2.0.13
-  provider: ^5.0.0
+  provider: ^6.0.0
   http: ^0.13.3
   image_picker: ^0.8.3+2
   rflutter_alert: ^2.0.4
   url_launcher: ^6.0.4
   shared_preferences: ^2.0.6
-  startapp_sdk_flutter: ^0.0.8
   google_mobile_ads: ^0.13.3
   unity_ads_plugin: ^0.2.3
   flutter_html: ^2.1.1
@@ -53,6 +51,7 @@ dependencies:
   share: ^2.0.4
   flutter_cached_pdfview: ^0.4.0-nullsafety
   future_progress_dialog: ^0.2.0
+  flutter_math_fork: ^0.5.0
 
 dev_dependencies:
   flutter_test:
